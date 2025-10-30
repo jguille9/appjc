@@ -1,1 +1,1 @@
-"<?php echo 'Hola Mundo desde app1 - main'; ?>" 
+"<?php echo 'Hola desde la nueva feature'; ?>" 
